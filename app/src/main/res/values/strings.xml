@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoBomb</string>
+    <string name="hint"> Search...</string>
+</resources>
